@@ -1,4 +1,4 @@
-# Ejercicios
+# Ejercicios 1
 
 **1.** Convierte el número decimal 22 a binario.
 - 22/2 = 11 residuo 0
@@ -16,3 +16,16 @@
 **R/=** 22
 
 **3.** Escribe un programa en Python que convierta un número decimal introducido por el usuario a binario.
+
+# Ejercicios 2
+
+1. ¿Qué número binario representa el carácter 'C' en ASCII?
+
+**R/=** El carácter 'C' en ASCII corresponde al valor decimal 67.
+
+En binario, ese valor se representa como:
+01000011
+
+2. Convierte el número flotante 5.
+75 a binario (explica los pasos).
+
