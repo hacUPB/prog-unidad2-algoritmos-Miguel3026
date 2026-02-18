@@ -22,7 +22,7 @@
 |------|-----|----------|
 |Situación_aeronave|Str|Dice si la aeronave puede despegar o no|
 
-2. **Control de combustible en pruebas**
+4. **Control de combustible en pruebas**
     
     Durante un ensayo en banco de un motor a reacción, se mide el nivel de combustible cada minuto y se detiene el registro cuando el combustible baja del 10%. Mostrar el tiempo total de operación antes de llegar a ese punto
 
@@ -54,3 +54,17 @@ mostrar ("ha trasncurrido" i)
 
 Fin 
 ````
+
+6. **Control de temperatura en cabina**
+    
+    Un sistema mide cada 5 minutos la temperatura en cabina durante una hora. Si en algún momento se detecta una temperatura mayor a 27°C o menor a 18°C, debe indicar que se active el sistema de climatización.
+
+## **Pseudocodigo**
+````
+Inicio 
+
+i = 0
+for i hasta 12
+
+
+
